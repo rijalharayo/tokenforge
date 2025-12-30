@@ -1,0 +1,14 @@
+{
+  "name": "tokenforge",
+  "version": "1.0.0",
+  "description": "A lightweight, no-frills JWT utility for Node.js – effortlessly forge, sign, verify, and decode JSON Web Tokens with minimal dependencies.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swarnim Rijal",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.3"
+  }
+}
